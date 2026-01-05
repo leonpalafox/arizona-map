@@ -1,0 +1,212 @@
+[
+  {
+    "fips": "04001",
+    "name": "Apache",
+    "population": 65680,
+    "medianIncome": 40338,
+    "ageDistribution": {
+      "under18": 15106,
+      "age18to64": 38751,
+      "age65Plus": 11822
+    },
+    "housingUnits": 29001,
+    "areaSquareMiles": 11218,
+    "populationDensity": 5.854876091995008
+  },
+  {
+    "fips": "04003",
+    "name": "Cochise",
+    "population": 125458,
+    "medianIncome": 58970,
+    "ageDistribution": {
+      "under18": 28855,
+      "age18to64": 74020,
+      "age65Plus": 22582
+    },
+    "housingUnits": 59312,
+    "areaSquareMiles": 6166,
+    "populationDensity": 20.346740188128447
+  },
+  {
+    "fips": "04005",
+    "name": "Coconino",
+    "population": 144643,
+    "medianIncome": 69748,
+    "ageDistribution": {
+      "under18": 33268,
+      "age18to64": 85339,
+      "age65Plus": 26036
+    },
+    "housingUnits": 69907,
+    "areaSquareMiles": 18661,
+    "populationDensity": 7.751085150849365
+  },
+  {
+    "fips": "04007",
+    "name": "Gila",
+    "population": 53610,
+    "medianIncome": 59089,
+    "ageDistribution": {
+      "under18": 12330,
+      "age18to64": 31630,
+      "age65Plus": 9650
+    },
+    "housingUnits": 32614,
+    "areaSquareMiles": 4796,
+    "populationDensity": 11.178065054211844
+  },
+  {
+    "fips": "04009",
+    "name": "Graham",
+    "population": 38860,
+    "medianIncome": 67326,
+    "ageDistribution": {
+      "under18": 8938,
+      "age18to64": 22927,
+      "age65Plus": 6995
+    },
+    "housingUnits": 13941,
+    "areaSquareMiles": 4641,
+    "populationDensity": 8.373195432018962
+  },
+  {
+    "fips": "04011",
+    "name": "Greenlee",
+    "population": 9452,
+    "medianIncome": 75239,
+    "ageDistribution": {
+      "under18": 2174,
+      "age18to64": 5577,
+      "age65Plus": 1701
+    },
+    "housingUnits": 4422,
+    "areaSquareMiles": 1851,
+    "populationDensity": 5.106428957320367
+  },
+  {
+    "fips": "04012",
+    "name": "La Paz",
+    "population": 16605,
+    "medianIncome": 49506,
+    "ageDistribution": {
+      "under18": 3819,
+      "age18to64": 9797,
+      "age65Plus": 2989
+    },
+    "housingUnits": 13653,
+    "areaSquareMiles": 4500,
+    "populationDensity": 3.69
+  },
+  {
+    "fips": "04013",
+    "name": "Maricopa",
+    "population": 4491987,
+    "medianIncome": 85518,
+    "ageDistribution": {
+      "under18": 1033157,
+      "age18to64": 2650272,
+      "age65Plus": 808558
+    },
+    "housingUnits": 1850862,
+    "areaSquareMiles": 9224,
+    "populationDensity": 486.9890503035559
+  },
+  {
+    "fips": "04015",
+    "name": "Mohave",
+    "population": 217420,
+    "medianIncome": 55799,
+    "ageDistribution": {
+      "under18": 50007,
+      "age18to64": 128278,
+      "age65Plus": 39136
+    },
+    "housingUnits": 119593,
+    "areaSquareMiles": 13470,
+    "populationDensity": 16.14105419450631
+  },
+  {
+    "fips": "04017",
+    "name": "Navajo",
+    "population": 107744,
+    "medianIncome": 52752,
+    "ageDistribution": {
+      "under18": 24781,
+      "age18to64": 63569,
+      "age65Plus": 19394
+    },
+    "housingUnits": 56946,
+    "areaSquareMiles": 9959,
+    "populationDensity": 10.818756903303544
+  },
+  {
+    "fips": "04019",
+    "name": "Pima",
+    "population": 1049947,
+    "medianIncome": 67929,
+    "ageDistribution": {
+      "under18": 241488,
+      "age18to64": 619469,
+      "age65Plus": 188990
+    },
+    "housingUnits": 475378,
+    "areaSquareMiles": 9189,
+    "populationDensity": 114.26129067363152
+  },
+  {
+    "fips": "04021",
+    "name": "Pinal",
+    "population": 449219,
+    "medianIncome": 77588,
+    "ageDistribution": {
+      "under18": 103320,
+      "age18to64": 265039,
+      "age65Plus": 80859
+    },
+    "housingUnits": 179861,
+    "areaSquareMiles": 5374,
+    "populationDensity": 83.5911797543729
+  },
+  {
+    "fips": "04023",
+    "name": "Santa Cruz",
+    "population": 48209,
+    "medianIncome": 53614,
+    "ageDistribution": {
+      "under18": 11088,
+      "age18to64": 28443,
+      "age65Plus": 8678
+    },
+    "housingUnits": 18997,
+    "areaSquareMiles": 1238,
+    "populationDensity": 38.94103392568659
+  },
+  {
+    "fips": "04025",
+    "name": "Yavapai",
+    "population": 241656,
+    "medianIncome": 66106,
+    "ageDistribution": {
+      "under18": 55581,
+      "age18to64": 142577,
+      "age65Plus": 43498
+    },
+    "housingUnits": 124032,
+    "areaSquareMiles": 8128,
+    "populationDensity": 29.731299212598426
+  },
+  {
+    "fips": "04027",
+    "name": "Yuma",
+    "population": 207685,
+    "medianIncome": 60417,
+    "ageDistribution": {
+      "under18": 47768,
+      "age18to64": 122534,
+      "age65Plus": 37383
+    },
+    "housingUnits": 93924,
+    "areaSquareMiles": 5519,
+    "populationDensity": 37.63091139699221
+  }
+]
