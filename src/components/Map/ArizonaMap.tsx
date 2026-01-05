@@ -17,7 +17,7 @@ export function ArizonaMap({ mapboxToken }: ArizonaMapProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<mapboxgl.Map | null>(null);
   const [mapLoaded, setMapLoaded] = useState(false);
-  const hoveredStateIdRef = useRef<string | number | undefined>();
+  const hoveredStateIdRef = useRef<string | number | undefined>(undefined);
 
   const { setSelectedCounty, setHoveredCounty, dataOverlay } = useMapStore();
   const { demographics, loading, getDemographicsByFips } = useDemographics();
