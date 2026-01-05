@@ -1,0 +1,452 @@
+[
+  {
+    "fips": "04001",
+    "name": "Apache",
+    "totalVotes": 29450,
+    "registeredVoters": 42500,
+    "turnoutPercentage": 69.3,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 11200,
+        "percentage": 38
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 17850,
+        "percentage": 60.6
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 400,
+        "percentage": 1.4
+      }
+    ],
+    "winner": "Kamala Harris",
+    "winnerParty": "Democratic",
+    "margin": 22.6
+  },
+  {
+    "fips": "04003",
+    "name": "Cochise",
+    "totalVotes": 62800,
+    "registeredVoters": 88000,
+    "turnoutPercentage": 71.4,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 39900,
+        "percentage": 63.5
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 21650,
+        "percentage": 34.5
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 1250,
+        "percentage": 2
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 29
+  },
+  {
+    "fips": "04005",
+    "name": "Coconino",
+    "totalVotes": 72300,
+    "registeredVoters": 95000,
+    "turnoutPercentage": 76.1,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 29650,
+        "percentage": 41
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 41050,
+        "percentage": 56.8
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 1600,
+        "percentage": 2.2
+      }
+    ],
+    "winner": "Kamala Harris",
+    "winnerParty": "Democratic",
+    "margin": 15.8
+  },
+  {
+    "fips": "04007",
+    "name": "Gila",
+    "totalVotes": 28900,
+    "registeredVoters": 39000,
+    "turnoutPercentage": 74.1,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 18350,
+        "percentage": 63.5
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 9850,
+        "percentage": 34.1
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 700,
+        "percentage": 2.4
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 29.4
+  },
+  {
+    "fips": "04009",
+    "name": "Graham",
+    "totalVotes": 19200,
+    "registeredVoters": 25000,
+    "turnoutPercentage": 76.8,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 13500,
+        "percentage": 70.3
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 5200,
+        "percentage": 27.1
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 500,
+        "percentage": 2.6
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 43.2
+  },
+  {
+    "fips": "04011",
+    "name": "Greenlee",
+    "totalVotes": 4850,
+    "registeredVoters": 6200,
+    "turnoutPercentage": 78.2,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 2900,
+        "percentage": 59.8
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 1800,
+        "percentage": 37.1
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 150,
+        "percentage": 3.1
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 22.7
+  },
+  {
+    "fips": "04012",
+    "name": "La Paz",
+    "totalVotes": 8650,
+    "registeredVoters": 12500,
+    "turnoutPercentage": 69.2,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 5950,
+        "percentage": 68.8
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 2500,
+        "percentage": 28.9
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 200,
+        "percentage": 2.3
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 39.9
+  },
+  {
+    "fips": "04013",
+    "name": "Maricopa",
+    "totalVotes": 2185000,
+    "registeredVoters": 2850000,
+    "turnoutPercentage": 76.7,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 1095200,
+        "percentage": 50.1
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 1055350,
+        "percentage": 48.3
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 34450,
+        "percentage": 1.6
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 1.8
+  },
+  {
+    "fips": "04015",
+    "name": "Mohave",
+    "totalVotes": 115800,
+    "registeredVoters": 155000,
+    "turnoutPercentage": 74.7,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 82150,
+        "percentage": 71
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 31300,
+        "percentage": 27
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 2350,
+        "percentage": 2
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 44
+  },
+  {
+    "fips": "04017",
+    "name": "Navajo",
+    "totalVotes": 51200,
+    "registeredVoters": 67000,
+    "turnoutPercentage": 76.4,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 24550,
+        "percentage": 48
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 25600,
+        "percentage": 50
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 1050,
+        "percentage": 2
+      }
+    ],
+    "winner": "Kamala Harris",
+    "winnerParty": "Democratic",
+    "margin": 2
+  },
+  {
+    "fips": "04019",
+    "name": "Pima",
+    "totalVotes": 548000,
+    "registeredVoters": 695000,
+    "turnoutPercentage": 78.8,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 219200,
+        "percentage": 40
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 317200,
+        "percentage": 57.9
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 11600,
+        "percentage": 2.1
+      }
+    ],
+    "winner": "Kamala Harris",
+    "winnerParty": "Democratic",
+    "margin": 17.9
+  },
+  {
+    "fips": "04021",
+    "name": "Pinal",
+    "totalVotes": 226500,
+    "registeredVoters": 295000,
+    "turnoutPercentage": 76.8,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 140800,
+        "percentage": 62.2
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 81900,
+        "percentage": 36.2
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 3800,
+        "percentage": 1.6
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 26
+  },
+  {
+    "fips": "04023",
+    "name": "Santa Cruz",
+    "totalVotes": 23400,
+    "registeredVoters": 30000,
+    "turnoutPercentage": 78,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 7950,
+        "percentage": 34
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 14850,
+        "percentage": 63.5
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 600,
+        "percentage": 2.5
+      }
+    ],
+    "winner": "Kamala Harris",
+    "winnerParty": "Democratic",
+    "margin": 29.5
+  },
+  {
+    "fips": "04025",
+    "name": "Yavapai",
+    "totalVotes": 137500,
+    "registeredVoters": 175000,
+    "turnoutPercentage": 78.6,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 90000,
+        "percentage": 65.5
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 44800,
+        "percentage": 32.6
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 2700,
+        "percentage": 1.9
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 32.9
+  },
+  {
+    "fips": "04027",
+    "name": "Yuma",
+    "totalVotes": 95500,
+    "registeredVoters": 125000,
+    "turnoutPercentage": 76.4,
+    "candidates": [
+      {
+        "name": "Donald Trump",
+        "party": "Republican",
+        "votes": 52200,
+        "percentage": 54.7
+      },
+      {
+        "name": "Kamala Harris",
+        "party": "Democratic",
+        "votes": 41500,
+        "percentage": 43.5
+      },
+      {
+        "name": "Other",
+        "party": "Other",
+        "votes": 1800,
+        "percentage": 1.8
+      }
+    ],
+    "winner": "Donald Trump",
+    "winnerParty": "Republican",
+    "margin": 11.2
+  }
+]
